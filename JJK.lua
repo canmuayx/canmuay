@@ -281,7 +281,7 @@ task.spawn(function ()
                                 },
                                 ["rewardsText"] = "Script Made By canmuayx",
                                 ["difficulty"] = -math.huge,
-                                ["title"] = "ez | quest by. canmuayx (ฺBFยังยากกว่าTT)",
+                                ["title"] = "ez | quest by. canmuayxฺ ,BloxFruitยังยากกว่าTT",
                                 ["amount"] = 1,
                                 ["location"] = workspace.Objects.Locations.Missions:FindFirstChild("Shijo Town Set"):FindFirstChild("Vast Plain"),
                                 ["level"] = 430,
