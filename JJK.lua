@@ -85,7 +85,7 @@ local Window = Fluent:CreateWindow({
 
 local Tabs = {
     General_Tab = Window:AddTab({ Title = "General", Icon = "house" }),
-    Miscellaneous_Tab = Window:AddTab({ Title = "Miscellaneous", Icon = "blinds" })
+    Miscellaneous_Tab = Window:AddTab({ Title = "Spin", Icon = "blinds" })
 }
 
 Window:SelectTab(1)
@@ -279,7 +279,7 @@ task.spawn(function ()
                                     ["exp"] = 8810000,
                                     ["chestMeter"] = 75
                                 },
-                                ["rewardsText"] = "Script Made By canmuayx",
+                                ["rewardsText"] = "Script Made By CanmuayX",
                                 ["difficulty"] = -math.huge,
                                 ["title"] = "ez | quest by. canmuayxฺ ,BloxFruitยังยากกว่าTT",
                                 ["amount"] = 1,
